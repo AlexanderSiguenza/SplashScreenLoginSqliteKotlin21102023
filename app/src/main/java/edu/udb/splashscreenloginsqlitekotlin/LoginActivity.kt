@@ -31,7 +31,7 @@ class LoginActivity : AppCompatActivity() {
 
             if (login(username, password)) {
                 // Si las credenciales son válidas, inicia la actividad principal o realiza la acción deseada.
-                val intent = Intent(this@LoginActivity, WelcomeActivity::class.java)
+                val intent = Intent(this@LoginActivity, MenuActivity::class.java)
                 startActivity(intent)
                 finish()
             } else {

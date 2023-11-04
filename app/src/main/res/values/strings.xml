@@ -13,4 +13,14 @@
     <string name="iniciar_sesi_n">Iniciar sesión</string>
     <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
     <string name="reg_strate_aqu">Regístrate aquí</string>
+
+    <!-- Mensajes Menu -->
+    <string name="opcion_menu1">Inicio</string>
+    <string name="opcion_menu2">Configuracion</string>
+    <string name="opcion_menu3">Salir</string>
+    <string name="mensaje_1">Se seleccionó la primer opción</string>
+    <string name="mensaje_2">Se seleccionó la segunda opción</string>
+    <string name="mensaje_3">Se seleccionó la tercer opción</string>
+    <string name="mensaje_icono_telefono">Se seleccionó icono telefono</string>
+    <string name="mensaje_icono_camara">Se seleccionó icono camara</string>
 </resources>
