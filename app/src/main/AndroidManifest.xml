@@ -29,6 +29,9 @@
         <activity android:name=".Opcion2Activity" />
         <activity android:name=".Opcion3Activity"/>
         <activity android:name=".Opcion4Activity"/>
+        <activity android:name=".MainActivityPaciente"/>
+        <activity android:name=".EditarActivityPaciente"/>
+
 
     </application>
 

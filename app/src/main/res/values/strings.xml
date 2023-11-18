@@ -15,12 +15,16 @@
     <string name="reg_strate_aqu">Regístrate aquí</string>
 
     <!-- Mensajes Menu -->
+    <string name="bienvenidos">Bienvenidos al app, seleccionar una opcion del menu!</string>
     <string name="opcion_menu1">Inicio</string>
-    <string name="opcion_menu2">Configuracion</string>
-    <string name="opcion_menu3">Salir</string>
+    <string name="opcion_menu2">Doctor</string>
+    <string name="opcion_menu4">Paciente</string>
+    <string name="opcion_menu3">Cita</string>
     <string name="mensaje_1">Se seleccionó la primer opción</string>
     <string name="mensaje_2">Se seleccionó la segunda opción</string>
     <string name="mensaje_3">Se seleccionó la tercer opción</string>
     <string name="mensaje_icono_telefono">Se seleccionó icono telefono</string>
     <string name="mensaje_icono_camara">Se seleccionó icono camara</string>
+
+
 </resources>

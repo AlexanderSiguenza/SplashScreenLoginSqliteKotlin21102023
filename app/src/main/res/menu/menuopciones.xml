@@ -21,5 +21,5 @@
         android:title="@string/opcion_menu2" />
     <item
         android:id="@+id/opcion3"
-        android:title="@string/opcion_menu3" />
+        android:title="@string/opcion_menu4" />
 </menu>

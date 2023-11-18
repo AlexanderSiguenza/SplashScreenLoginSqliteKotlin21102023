@@ -46,7 +46,7 @@ class MenuActivity : AppCompatActivity() {
         }
         if (id == R.id.opcion3) {
             Toast.makeText(this, getString(R.string.mensaje_3), Toast.LENGTH_LONG).show();
-            val intent = Intent(this, Opcion3Activity::class.java)
+            val intent = Intent(this, MainActivityPaciente::class.java)
             startActivity(intent)
         }
         return super.onOptionsItemSelected(item)
